@@ -1,0 +1,4 @@
+module.exports={
+    MONGOURI:"aaa",
+    JWT_SECRET:"KJHKKJHKJHKJHKJHKJHKJHKJ"
+}
